@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PathBridge 🚀
 
 **Nigeria’s Digital Learning & Career Infrastructure**
@@ -89,3 +90,7 @@ The app will be available at: **[http://localhost:3000](http://localhost:3000)**
 
 ## 📜 License
 Copyright © 2026 Next Path Builders Inc. All Rights Reserved.
+=======
+# NEXT-PATH-BUILDERS
+PathBridge is a scalable, AI-powered platform designed specifically for Nigerian students to bridge the gap between academic learning and career success. It provides personalized roadmaps, localized study assistance, and direct access to career opportunities.
+>>>>>>> 135357e782aa86625ca639d27a35f0bcc2018480
