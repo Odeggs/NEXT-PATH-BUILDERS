@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "ef8e3134-b805-4dd1-8de6-8716861e217a"
+      }
+    },
+    "android": {
+      "package": "com.odeggsdan63.reactexample"
+    },
+    "ios": {
+      "bundleIdentifier": "com.odeggsdan63.reactexample",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
